@@ -2,10 +2,6 @@
 
 🎓 I'm a third year student at University of Illinois at Chicago
 
-👨🏼‍💻 I’m looking to collaborate on open-source projects
+👨🏼‍💻 Looking to collaborate on open-source projects
 
-📫 Contact me: [Telegram](https://t.me/kirillovmr)
-
-<!--
-
--->
+📫 Contact me in [Telegram](https://t.me/kirillovmr)
