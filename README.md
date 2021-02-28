@@ -4,4 +4,4 @@
 
 👨🏼‍💻 Open to your collaboration requests and would be happy to answer any questions
 
-📫 Contact me in [Telegram](https://t.me/kirillovmr)
+📫 Contact me in [Telegram](https://t.me/kirillovmr) or [LinkedIn](https://linkedin.com/in/kirillovmr/)
