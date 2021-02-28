@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Viktor
 
-🎓 I'm a third year student at University of Illinois at Chicago
+🎓 Senior Coumputer Science student at the University of Illinois at Chicago
 
-👨🏼‍💻 Looking to collaborate on open-source projects
+👨🏼‍💻 Open to your collaboration requests and would be happy to answer any questions
 
 📫 Contact me in [Telegram](https://t.me/kirillovmr)
