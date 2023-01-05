@@ -6,6 +6,6 @@ I'm a software engineer with a passion for building innovative and high-quality 
 
 In my free time, you can find me tinkering with new projects or contributing to open source software. I'm always looking for new opportunities to grow and learn as a developer, so feel free to reach out!
 
-🌐 Check out my website at [kirillovmr.com](https://kirillovmr.github.io)
+🌐 Check out my website at [kirillovmr.com](https://kirillovmr.com)
 
 📫 And here is my professional page on [LinkedIn](https://linkedin.com/in/kirillovmr/)
