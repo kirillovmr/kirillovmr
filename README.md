@@ -1,7 +1,11 @@
-### Hi there 👋, my name is Viktor
+### 👋 Hi there!
 
-🎓 Senior Coumputer Science student at the University of Illinois at Chicago
+👤 My name is Viktor.
 
-👨🏼‍💻 Open to your collaboration requests and would be happy to answer any questions
+I'm a software engineer with a passion for building innovative and high-quality applications. I have experience in a variety of programming languages, including JavaScript (NodeJS, Typescript), Solidity and C++, and enjoy solving complex problems and learning new technologies.
 
-📫 Contact me in [Telegram](https://t.me/kirillovmr) or [LinkedIn](https://linkedin.com/in/kirillovmr/)
+In my free time, you can find me tinkering with new projects or contributing to open source software. I'm always looking for new opportunities to grow and learn as a developer, so feel free to reach out!
+
+🌐 Check out my website at [kirillovmr.com](https://kirillovmr.github.io)
+
+📫 And here is my professional page on [LinkedIn](https://linkedin.com/in/kirillovmr/)
