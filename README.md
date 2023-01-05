@@ -1,6 +1,6 @@
 ### 👋 Hi there!
 
-👤 My name is Viktor.
+:octocat: My name is Viktor.
 
 I'm a software engineer with a passion for building innovative and high-quality applications. I have experience in a variety of programming languages, including JavaScript (NodeJS, Typescript), Solidity and C++, and enjoy solving complex problems and learning new technologies.
 
