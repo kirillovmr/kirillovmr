@@ -1,11 +1,9 @@
-### 👋 Hi there!
+👋 Hey, It's Viktor here! 👋
 
-:octocat: My name is Viktor.
+👨‍💻 Your go-to guy for all things `JavaScript`, `Solidity`, and a sprinkle of `C++`! With a knack for crafting high-quality applications and a penchant for decentralized tech, I've been navigating through the intricate world of software engineering, ensuring each line of code not only compiles but also resonates with quality and innovation.
 
-I'm a software engineer with a passion for building innovative and high-quality applications. I have experience in a variety of programming languages, including JavaScript (NodeJS, Typescript), Solidity and C++, and enjoy solving complex problems and learning new technologies.
+🛠️ Off the clock, I'm either contributing to open-source, experimenting with new projects, or diving into new technologies and frameworks. Continuous learning? Always on the menu! 📘🚀
 
-In my free time, you can find me tinkering with new projects or contributing to open source software. I'm always looking for new opportunities to grow and learn as a developer, so feel free to reach out!
+🤝 Let’s create a synergy where pixels meet functionality and turn ideas into digital reality! Always up for connecting with other tech enthusiasts, sharing knowledge, or collaborating on intriguing projects.
 
-🌐 Check out my website at [kirillovmr.com](https://kirillovmr.com)
-
-📫 And here is my professional page on [LinkedIn](https://linkedin.com/in/kirillovmr/)
+🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/kirillovmr/)!
